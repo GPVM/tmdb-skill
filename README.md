@@ -2,7 +2,7 @@
 This product uses the TMDb API but is not endorsed or certified by TMDb
 https://www.themoviedb.org/
 
-## Description
+## About
 Uses the TMDb api to call information about movies, actors, production companies and the like.
 
 ## Examples
@@ -14,7 +14,7 @@ Uses the TMDb api to call information about movies, actors, production companies
  - "What company made the movie _______?"
  - "When was the movie _______ made?"
 
-## Instalation
+## Installation
 This skill uses tmdbv3api avaliable on GitHub at https://github.com/AnthonyBloomer/tmdbv3api.git
 
 ### use msm to install
